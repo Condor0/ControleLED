@@ -29,17 +29,3 @@ while True:
 
 conectado.close()
 print("Conexao Finalizada")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
